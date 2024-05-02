@@ -1,0 +1,4 @@
+pix
+*.o
+moc_*
+.qmake.stash
